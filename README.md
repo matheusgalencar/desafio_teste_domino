@@ -2,8 +2,8 @@
 
 ## Colaboradores
 
-- Matheus Goulart de Alencar
-- Miguel Falcão Costacurta
+- Matheus Goulart de Alencar 24131995-2
+- Miguel Falcão Costacurta 24011302-2
 
 ## Especificação adotada
 
